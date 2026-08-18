@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1692547823451-0.123456",
+    "nombre": "Juan Pérez García",
+    "edad": "35",
+    "estado": "Amarillo",
+    "ubicacion": "40.416775, -3.703790",
+    "notas": "Lesión en brazo izquierdo, alergias a Penicilina",
+    "lat": "40.416775",
+    "lng": "-3.703790",
+    "timestamp": "2024-08-17T14:30:23.451Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547834521-0.234567",
+    "nombre": "María López Rodríguez",
+    "edad": "42",
+    "estado": "Verde",
+    "ubicacion": "40.417015, -3.703445",
+    "notas": "Persona sana, sin lesiones aparentes",
+    "lat": "40.417015",
+    "lng": "-3.703445",
+    "timestamp": "2024-08-17T14:31:15.521Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547845612-0.345678",
+    "nombre": "Carlos Martín Fernández",
+    "edad": "67",
+    "estado": "Rojo",
+    "ubicacion": "40.416200, -3.704100",
+    "notas": "Crítico - Traumatismo craneoencefálico, necesita cirugía urgente, presión arterial inestable",
+    "lat": "40.416200",
+    "lng": "-3.704100",
+    "timestamp": "2024-08-17T14:32:45.612Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547856703-0.456789",
+    "nombre": "Ana García Torres",
+    "edad": "28",
+    "estado": "Desaparecido",
+    "ubicacion": "Última ubicación conocida: Centro comercial Avenida",
+    "notas": "Desaparecida desde las 14:00. Viste blusa roja. Contactar al 112",
+    "lat": null,
+    "lng": null,
+    "timestamp": "2024-08-17T14:33:20.703Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547867894-0.567890",
+    "nombre": "Roberto Sánchez López",
+    "edad": "51",
+    "estado": "Amarillo",
+    "ubicacion": "40.415800, -3.702950",
+    "notas": "Fractura de tibia izquierda, estabilizado, requiere hospitalización",
+    "lat": "40.415800",
+    "lng": "-3.702950",
+    "timestamp": "2024-08-17T14:34:05.894Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547878965-0.678901",
+    "nombre": "Isabel Moreno Jiménez",
+    "edad": "34",
+    "estado": "Verde",
+    "ubicacion": "40.416500, -3.704500",
+    "notas": "Ilesa, en buen estado general",
+    "lat": "40.416500",
+    "lng": "-3.704500",
+    "timestamp": "2024-08-17T14:35:30.965Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547890056-0.789012",
+    "nombre": "Francisco López Gutiérrez",
+    "edad": "78",
+    "estado": "Rojo",
+    "ubicacion": "40.417200, -3.703200",
+    "notas": "Adulto mayor, infarto del miocardio en progreso, oxígeno en uso, monitoreo cardíaco continuo",
+    "lat": "40.417200",
+    "lng": "-3.703200",
+    "timestamp": "2024-08-17T14:36:15.056Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547901147-0.890123",
+    "nombre": "Sofía Rodríguez Martín",
+    "edad": "19",
+    "estado": "Verde",
+    "ubicacion": "40.416100, -3.703800",
+    "notas": "Joven adulta, sin daños, voluntaria de primera respuesta",
+    "lat": "40.416100",
+    "lng": "-3.703800",
+    "timestamp": "2024-08-17T14:37:00.147Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547912238-0.901234",
+    "nombre": "David González Pérez",
+    "edad": "45",
+    "estado": "Amarillo",
+    "ubicacion": "40.416300, -3.703600",
+    "notas": "Quemaduras de segundo grado en brazos, requiere tratamiento especializado",
+    "lat": "40.416300",
+    "lng": "-3.703600",
+    "timestamp": "2024-08-17T14:37:45.238Z",
+    "sincronizado": false
+  },
+  {
+    "id": "1692547923329-0.012345",
+    "nombre": "Miguel Hernández López",
+    "edad": "Edad desconocida",
+    "estado": "Desaparecido",
+    "ubicacion": "Zona del accidente, no localizado",
+    "notas": "Trabajador de construcción, última noticia a las 13:45, buscar con urgencia",
+    "lat": null,
+    "lng": null,
+    "timestamp": "2024-08-17T14:38:30.329Z",
+    "sincronizado": false
+  }
+]
